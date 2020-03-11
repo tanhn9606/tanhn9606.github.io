@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/tanhn9606/tanhn9606.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
@@ -36,6 +35,3 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
-=======
-This is a markdown file and now using the blog template
->>>>>>> e1dce232afea2c955eb62f0ddd277b9cded01c78
